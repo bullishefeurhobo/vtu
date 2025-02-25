@@ -51,7 +51,7 @@ const Header = () => {
           </ul>
 
           <div className={styles.btns}>
-            <a href="https://github.com/Gift-Jackson/vtu" target="_blank">
+            <a href="https://github.com/efeurhobobullish/vtu" target="_blank">
               <i className="fa-brands fa-github"></i> <span>Github</span>
             </a>
             <Link to="/connect">
